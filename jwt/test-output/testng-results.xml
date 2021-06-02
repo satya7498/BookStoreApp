@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-05-12T01:14:11 IST" name="Default suite" finished-at="2021-05-12T01:14:11 IST" duration-ms="60">
+    <groups>
+    </groups>
+    <test started-at="2021-05-12T01:14:11 IST" name="Default test" finished-at="2021-05-12T01:14:11 IST" duration-ms="60">
+      <class name="jwt.controllerTest.BookControlerTest">
+        <test-method signature="env()[pri:0, instance:jwt.controllerTest.BookControlerTest@29d89d5d]" started-at="2021-05-12T01:14:11 IST" name="env" finished-at="2021-05-12T01:14:11 IST" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- env -->
+      </class> <!-- jwt.controllerTest.BookControlerTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
