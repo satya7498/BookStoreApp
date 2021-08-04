@@ -39,7 +39,7 @@ Tools and Technologies:
 5.Selenium For Web Automation Testing
 6.JPA: Java Persistence API(JPA) is a Java programming interface specification that describes the management of relational data in applications using Java Platform.
 7.JUNIT/Mockito: Junit is the unit testing framework for the Java programming language. Mockito is a mocking framework.
-8.Jacoco: Jacoco is a Java Code Coverage tool. The jacoco maven plugin is used in this project. This generate unit test code coverage report.
+8.Jacoco:The jacoco maven plugin is used in this project. This generate unit test code coverage report.
 9.Swagger: Swagger is open-source framework that helps developers design, build, document and consume RESTful Web services.
 
 
